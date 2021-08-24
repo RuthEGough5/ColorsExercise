@@ -1,0 +1,44 @@
+/* Somewhere "color named"*/
+h1 {background-color: #591c25;}
+h1 {
+    color:red;
+}
+
+/* Over "hexadecimal" */ 
+h2 {background-color: #7a520b;}
+h2 {
+    color:#f59505;
+}
+
+/* the "hexadecimal shorthand"*/
+h3 {background-color: #798021;}
+h3 {
+    color: #ff0; 
+}
+
+/* rainbow "hexadecimal + transparency")*/
+h4 {background-color: #015215;}
+h4 {
+    color:#00ff0080   
+}
+
+/* Way "hedadecimal + transparency shorthand"*/
+h5 {background-color: #011880;}
+h5 {
+    color:#0000ff80;
+}
+
+/* Up "RGB"*/
+h6 {background-color: #9302fa;}
+h6 {
+    color:rgb(75, 0, 130);
+}
+
+/* High "RGBA"*/
+p {background-color: #9302fa;}
+p {
+    color:#EE82EE;
+}
+
+ol{color: hotpink}
+ol{color: peachpuff}
